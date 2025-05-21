@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Curso de Programación",
+    "description": "Curso de programación que aprenderás lo básico desde cero hasta aprender lo más avanzado para crear una aplicación",
+    "category": "Tecnología",
+    "price": 299.99,
+    "discountPercentage": 10.5,
+    "rating": 4.94,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/Curso%20programaci%C3%B3n.png"
+  },
+  {
+    "id": 2,
+    "title": "Curso de fotografía",
+    "description": "Aprenderás desde cómo sostener una cámara hasta tomar las mejores fotos en cuaquier lugar",
+    "category": "Educación",
+    "price": 149.99,
+    "discountPercentage": 10.00,
+    "rating": 4.42,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/curso_fotograf%C3%ADa.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Curso de Excel",
+    "description": "Curso donde aprenderás las bases de la aplicació de Excel para poder hacer desde tablas hasta hacer gráficas de la manera más eficaz posible",
+    "category": "Tecnología",
+    "price":399.99,
+    "discountPercentage": 12.80,
+    "rating": 4.21,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/excel%20(1).png"
+  },
+  {
+    "id": 4,
+    "title": "Curso de computación",
+    "description": "La base de este curso es aprender todo sobre tu ordenador para que seas un profesional y poder solucionar cualquier problema",
+    "category": "Tecnología",
+    "price": 299.99,
+    "discountPercentage": 15.00,
+    "rating": 4.62,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/curso%20de%20computaci%C3%B3n.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Curso de marketing",
+    "description": "Vas a aprender a saber cómo vender cualquier cosa solo sabiend a través de estádisticas y estudio de áreas",
+    "category": "Educación",
+    "price":199.99,
+    "discountPercentage": 40.30,
+    "rating": 3.91,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/logo_marketing.png"
+  },
+  {
+    "id": 6,
+    "title": "Curso de Python",
+    "description": "Aprenderás a utilizar el lenguaje de programación python para poder alcanzar las bases de la inteligencia artificial y ciencias de datos",
+    "category": "Tecnología",
+    "price":399.99,
+    "discountPercentage": 20.10,
+    "rating": 4.86,
+    "image": "https://raw.githubusercontent.com/David-Martinez-1077/imagen/refs/heads/main/Curso_programacion.jpg"
+  },
+]
